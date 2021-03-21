@@ -1,8 +1,8 @@
 ---
 permalink: /about/
-title: "About"
+title: "À propos"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Radio Franche est un projet de radio libre, à la fois radio pirate exploitant les technologies hertziennes et base de données  en ligne visant à faciliter les rencontres, les projets collectifs, le débat activiste, et la diffusion des projets artistiques en Franche-Comté. L'objectif premier de ce média alternatif est donc de réduire la distance entre les personnes, mais aussi de créer un réseau de communication à l'échelle d'une région connecté avec des acteurs de la culture engagés en France et ailleurs.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Radio Franche est né d'une envie de faire coïncider deux démarches opposées : le retour à la nature et le détournement des pouvoirs du numérique à contre-courant des aspirations technocratiques de la société contemporaine. C'est donc dans le Jura, territoire préhistorique par excellence, associé en 1829 à l'ère Jurassique par le naturaliste Alexandre Brongniart, qui a été choisi comme base pour créer ce projet de radio, à la fois collectif de diffusion et de production de culture indépendante.
