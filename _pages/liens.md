@@ -3,8 +3,6 @@ permalink: /liens/
 title: "Liens"
 ---
 
-# Radios
-
 ## Radios hybrides
 
 [ ∏Node](https://p-node.org/)
