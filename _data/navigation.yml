@@ -2,7 +2,7 @@ main:
   - title: "Posts"
     url: /posts/
   - title: "Liens"
-    url: /liens.md/
+    url: /liens/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
