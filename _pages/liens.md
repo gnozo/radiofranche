@@ -25,7 +25,7 @@ title: "Liens"
 
 [Duuu](https://duuuradio.fr/)
 
-[FMR](https://radio-fmr.net/)
+[RadioFMR](https://radio-fmr.net/)
 
 # Sites et blogs
 
