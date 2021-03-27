@@ -1,0 +1,18 @@
+---
+title: "Felix Guattari et les radios libre"
+date: 2021-03-27T15:34:30-04:00
+categories:
+  - blog
+  - -archive
+tags:
+  - philosophie
+  - japon
+  - -kogawa
+  - guattari
+---
+Felix Guattari, philosophe bien connu en tant qu'auteur de _Capitalisme et schizophrenie_ avec Gilles Deleuze (_L'Anti-Oedipe_, 1972, et _Mille Plateaux_, 1980),
+s'est interesse de pres au medium radiophonique. Il participe notamment a la creation de Radio Tomate en 1981 et soutient l'idee que la radio est un terrain d'action
+"[micropolitique](https://journals.sagepub.com/doi/abs/10.1177/0957155806060795)".
+
+Voici une interview de Felix Guattari realisee en 1980 par Tetsuo Kogawa:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kwtCvlt1uy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
