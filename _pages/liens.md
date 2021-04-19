@@ -15,7 +15,7 @@ title: "Liens"
 
 [Radio Meuh](https://www.radiomeuh.com/)
 
-[Radio Prun'] (https://www.prun.net/)
+[Radio Prun'](https://www.prun.net/)
 
 [Radio Libertaire](https://www.radio-libertaire.net/)
 
