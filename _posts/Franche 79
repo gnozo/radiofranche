@@ -1,0 +1,53 @@
+---
+youtubeId : G7aq9pJ5tc
+
+title: "13 mars 1979 : Radio Franche en veille prolongée"
+file: https://user-images.githubusercontent.com/23066479/201477551-0f1e9a98-438c-4957-a50f-f740f7a6fe1b.mp4](https://user-images.githubusercontent.com/23066479/201477883-1a892038-cbbf-43cd-8d1c-53f6c779ce1e.mp4
+categories:
+  - blog
+  - radio
+  - history
+tags:
+  - radiofranche
+  - france
+  - ortf
+  - medias
+  - archéologie des médias
+---
+Suite à l'éclatement de l'ORTF, [Radio Franche](https://www.cinearchives.org/Films-RADIO-FRANCHE-447-1147-0-1.html), une radio collaborative pirate, émet "chaque soir à 19h30 (sauf quand on est à la bourre)". 
+
+Pour comprendre le contexte, on va sur [Wikipédia](https://fr.wikipedia.org/wiki/Office_de_radiodiffusion-t%C3%A9l%C3%A9vision_fran%C3%A7aise#:~:text=L'office%20est%20cr%C3%A9%C3%A9%20en,la%20fin%20de%20l'ORTF.) : 
+
+>Avec le tournant politique libéral impulsé par le président de la République Valéry Giscard d'Estaing, son Premier ministre Jacques Chirac entreprend durant l'été 1974 des réformes importantes, au rang desquelles figure la suppression de l'ORTF(...).`
+
+Ah oui. Radio Franche, qui figure sur la [liste des stations de radio disparues en France](https://fr.wikipedia.org/wiki/Liste_des_stations_de_radio_disparues_en_France), en fait on n'en n'a plus beaucoup de traces, parce que c'était du direct et que même si ça a été relayé c'est pas facile de retrouver des infos sur cette radio aujourd'hui. On sait quand même des choses. [Sur Schoop.fr](https://www.schoop.fr/ficheradio.php?id_radio=1684), on apprend qu'elle a été créée le 22 février 1979 à 19h30 à Paris par les grévistes de la SFP (Société Française de Production, un organe issu de l'éclatement de l'ORTF).
+
+>A l'origine de cette radio libre, il y a [Francis LATTUGA](https://francis-lattuga.iggybook.com/fr/), né en Algérie en 1940. Ce nîmois d'adoption dès sa onzième année travaille en 1979 comme chargé de production à la SFP (...). Les émissions en direct se font depuis le studio 18 de la SFP aux Buttes Chaumont. Parmi les protagonistes on trouve; Jean-Michel RODES, Marie-France THIVOT, Bruno ARMAND, Josiane PERGAIX, Fabrice PINTE (..). On y retrouvera Marcel TRILLAT qui animera Lorraine Coeur d'Acier. Des conflis se font jour entre la CGT et  la CFDT;  Francis LATTUGA monte une autre radio du nom de Franche Inter avec l'émetteur de [Radio Onz'Débrouille](https://fr.wikipedia.org/wiki/Radio_Onz%27D%C3%A9brouille).`
+
+Le projet se serait dissous suite à des dissensions (encore un coup du [réalisme capitaliste](https://fr.wikipedia.org/wiki/Le_R%C3%A9alisme_capitaliste._N%27y_a-t-il_aucune_alternative_%3F)). Et le projet Franche Inter, en attendant, on ne sait pas trop où il est passé. Les radios libres, une galaxie de comètes flamboyantes qu'il a été difficile de documenter.
+
+{% include open-embed.html %}
+
+--Ci-dessous des tests.  
+
+Pour pérenniser ces rares archives, et aussi par fétichisme, nous nous sommes aussi permis de pirater le site Schoop.fr.
+
+<video width="320" height="240" controls>
+
+  <source type="video/mp4" src="[Générique Radio Franche 1979](https://user-images.githubusercontent.com/23066479/201477551-0f1e9a98-438c-4957-a50f-f740f7a6fe1b.mp4](https://user-images.githubusercontent.com/23066479/201477883-1a892038-cbbf-43cd-8d1c-53f6c779ce1e.mp4)">
+  
+</video>
+
+<video width="320" height="240" controls>
+
+  <source type="video/mp4" src="[Extrait Radio Franche v1 1979](https://user-images.githubusercontent.com/23066479/201477551-0f1e9a98-438c-4957-a50f-f740f7a6fe1b.mp4](https://user-images.githubusercontent.com/23066479/201477883-1a892038-cbbf-43cd-8d1c-53f6c779ce1e.mp4](https://user-images.githubusercontent.com/23066479/201477970-302736ef-e14b-4eee-9f5b-7ae2367ced4a.mp4)">
+
+</video>
+
+<video width="320" height="240" controls>
+
+  <source type="video/mp4" src="[Extrait Radio Franche v2 1979]([https://user-images.githubusercontent.com/23066479/201477551-0f1e9a98-438c-4957-a50f-f740f7a6fe1b.mp4](https://user-images.githubusercontent.com/23066479/201477883-1a892038-cbbf-43cd-8d1c-53f6c779ce1e.mp4](https://user-images.githubusercontent.com/23066479/201477970-302736ef-e14b-4eee-9f5b-7ae2367ced4a.mp4])">
+
+</video>
+
+{% include youtubePlayer.html id=page.youtubeId %}
